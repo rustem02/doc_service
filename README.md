@@ -6,9 +6,9 @@
 
 - Python
 - FastAPI
-- SQLAlchemy (ORM)
-- SQLite (по умолчанию, легко сменить на PostgreSQL через `DATABASE_URL`)
-- Docker (опционально)
+- SQLAlchemy
+- SQLite
+- Docker
 
 ## Установка и запуск локально
 
